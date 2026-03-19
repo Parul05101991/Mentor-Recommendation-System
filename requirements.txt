@@ -1,1 +1,8 @@
-
+- Python 3.11+
+- Streamlit
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- networkx
