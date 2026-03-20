@@ -41,4 +41,10 @@ streamlit run app.py
 - Click Find Mentors to see the top 5 mentors with similarity scores.
 - Optionally, check Show heatmap to visualize similarity scores.
 
+## Future Improvements
+
+- Incorporate additional mentee attributes for more personalized recommendations  
+- Add a dashboard to visualize overall mentor-mentee statistics  
+- Support for real-time mentor availability and scheduling
+
 
