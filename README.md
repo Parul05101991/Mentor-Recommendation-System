@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Run the App
 
 ```bash
-streamlit run/UI.py
+streamlit run app.py
 ```
 
 ## Usage
