@@ -18,7 +18,7 @@ A **Streamlit web app** that recommends mentors to mentees based on **Interest F
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Parul05101991/Mentor-Recommendation-System.git
+https://github.com/parul-sharma-ai/Mentor-Recommendation-System
 cd Mentor-Recommendation-System
 ```
 
